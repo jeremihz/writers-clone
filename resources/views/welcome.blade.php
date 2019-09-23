@@ -116,7 +116,7 @@
             <img class="second-slide" src="/images/img2.jpg" alt="Second slide">
             <div class="container">
               <div class="carousel-caption">
-                <h1>My Assignment Experts</h1>
+                <h1>Let us take care of your order details while you enjoy your free time!</h1>
                 
                 <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign Up</a></p>
               </div>
@@ -126,7 +126,7 @@
             <img class="third-slide" src="/images/img3.jpg" alt="Third slide">
             <div class="container">
               <div class="carousel-caption text-left">
-                <h1>My Assignment Experts</h1>
+                <h1>24/7 Customer Support</h1>
                 
                 <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign Up</a></p>
               </div>
