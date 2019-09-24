@@ -9,6 +9,8 @@
         <p class="lead">This is about our website</p>
       </div>
     </div>
+
+
   </div>
 </header>
 
