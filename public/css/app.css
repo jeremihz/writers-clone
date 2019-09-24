@@ -4110,6 +4110,7 @@ input[type="button"].btn-block {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
+  color: #ffffff;
 }
 
 .nav-link:hover, .nav-link:focus {
@@ -9992,7 +9993,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-muted {
-  color: #6c757d !important;
+  color: #ffffff !important;
 }
 
 .text-black-50 {
@@ -20696,7 +20697,7 @@ blockquote.quote-gray-dark h6 {
 }
 
 a.text-muted:hover {
-  color: #007bff !important;
+  color: #ffffff !important;
 }
 
 .link-muted {
@@ -20720,7 +20721,7 @@ a.text-muted:hover {
 }
 
 .blue {
-  color: #3490dc;
+  color: #283c86;
 }
 
 .indigo {
@@ -20767,7 +20768,7 @@ a.text-muted:hover {
  */
 
 :root {
-  --blue: #3490dc;
+  --blue: #283c86;
   --indigo: #6574cd;
   --purple: #9561e2;
   --pink: #f66d9b;
@@ -20780,7 +20781,7 @@ a.text-muted:hover {
   --white: #ffff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #3490dc;
+  --primary: #283c86;
   --secondary: #6c757d;
   --success: #38c172;
   --info: #6cb2eb;
@@ -20929,7 +20930,7 @@ sup {
 }
 
 a {
-  color: #3490dc;
+  color: #283c86;
   text-decoration: none;
   background-color: transparent;
 }
@@ -23321,8 +23322,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #ffff;
-  background-color: #3490dc;
-  border-color: #3490dc;
+  background-color: #283c86;
+  border-color: #283c86;
 }
 
 .btn-primary:hover {
@@ -23339,8 +23340,8 @@ fieldset:disabled a.btn {
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffff;
-  background-color: #3490dc;
-  border-color: #3490dc;
+  background-color: #283c86;
+  border-color: #283c86;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active,
@@ -23624,14 +23625,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #3490dc;
-  border-color: #3490dc;
+  color: #283c86;
+  border-color: #283c86;
 }
 
 .btn-outline-primary:hover {
   color: #ffff;
-  background-color: #3490dc;
-  border-color: #3490dc;
+  background-color: #283c86;
+  border-color: #283c86;
 }
 
 .btn-outline-primary:focus,
@@ -23641,7 +23642,7 @@ fieldset:disabled a.btn {
 
 .btn-outline-primary.disabled,
 .btn-outline-primary:disabled {
-  color: #3490dc;
+  color: #283c86;
   background-color: transparent;
 }
 
@@ -23649,8 +23650,8 @@ fieldset:disabled a.btn {
 .btn-outline-primary:not(:disabled):not(.disabled).active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #ffff;
-  background-color: #3490dc;
-  border-color: #3490dc;
+  background-color: #283c86;
+  border-color: #283c86;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active:focus,
@@ -23913,7 +23914,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #3490dc;
+  color: #283c86;
   text-decoration: none;
 }
 
@@ -24225,7 +24226,7 @@ input[type=button].btn-block {
 .dropdown-item:active {
   color: #ffff;
   text-decoration: none;
-  background-color: #3490dc;
+  background-color: #283c86;
 }
 
 .dropdown-item.disabled,
@@ -24583,8 +24584,8 @@ input[type=button].btn-block {
 
 .custom-control-input:checked ~ .custom-control-label::before {
   color: #ffff;
-  border-color: #3490dc;
-  background-color: #3490dc;
+  border-color: #283c86;
+  background-color: #283c86;
 }
 
 .custom-control-input:focus ~ .custom-control-label::before {
@@ -24648,8 +24649,8 @@ input[type=button].btn-block {
 }
 
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::before {
-  border-color: #3490dc;
-  background-color: #3490dc;
+  border-color: #283c86;
+  background-color: #283c86;
 }
 
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::after {
@@ -24875,7 +24876,7 @@ input[type=button].btn-block {
   width: 1rem;
   height: 1rem;
   margin-top: -0.25rem;
-  background-color: #3490dc;
+  background-color: #283c86;
   border: 0;
   border-radius: 1rem;
   transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -24906,7 +24907,7 @@ input[type=button].btn-block {
 .custom-range::-moz-range-thumb {
   width: 1rem;
   height: 1rem;
-  background-color: #3490dc;
+  background-color: #283c86;
   border: 0;
   border-radius: 1rem;
   transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -24940,7 +24941,7 @@ input[type=button].btn-block {
   margin-top: 0;
   margin-right: 0.2rem;
   margin-left: 0.2rem;
-  background-color: #3490dc;
+  background-color: #283c86;
   border: 0;
   border-radius: 1rem;
   transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -25081,7 +25082,7 @@ input[type=button].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #ffff;
-  background-color: #3490dc;
+  background-color: #283c86;
 }
 
 .nav-fill .nav-item {
@@ -25788,7 +25789,7 @@ input[type=button].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #3490dc;
+  color: #283c86;
   background-color: #ffff;
   border: 1px solid #dee2e6;
 }
@@ -25821,8 +25822,8 @@ input[type=button].btn-block {
 .page-item.active .page-link {
   z-index: 1;
   color: #ffff;
-  background-color: #3490dc;
-  border-color: #3490dc;
+  background-color: #283c86;
+  border-color: #283c86;
 }
 
 .page-item.disabled .page-link {
@@ -25906,7 +25907,7 @@ a.badge:focus {
 
 .badge-primary {
   color: #ffff;
-  background-color: #3490dc;
+  background-color: #283c86;
 }
 
 a.badge-primary:hover,
@@ -26235,7 +26236,7 @@ a.badge-dark.focus {
   color: #ffff;
   text-align: center;
   white-space: nowrap;
-  background-color: #3490dc;
+  background-color: #283c86;
   transition: width 0.6s ease;
 }
 
@@ -26327,8 +26328,8 @@ a.badge-dark.focus {
 .list-group-item.active {
   z-index: 2;
   color: #ffff;
-  background-color: #3490dc;
-  border-color: #3490dc;
+  background-color: #283c86;
+  border-color: #283c86;
 }
 
 .list-group-horizontal {
@@ -27477,7 +27478,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #3490dc !important;
+  background-color: #283c86 !important;
 }
 
 a.bg-primary:hover,
@@ -27613,7 +27614,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #3490dc !important;
+  border-color: #283c86 !important;
 }
 
 .border-secondary {
@@ -31189,7 +31190,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #3490dc !important;
+  color: #283c86 !important;
 }
 
 a.text-primary:hover,
@@ -31265,8 +31266,22 @@ a.text-dark:focus {
 }
 
 .text-muted {
+  color: #ffffff !important;
+}
+
+.text-case {
   color: #6c757d !important;
 }
+
+.text-uppercase {
+  color: #6c757d !important;
+}
+
+.text-case {
+  color: #6c757d !important;
+}
+
+
 
 .text-black-50 {
   color: rgba(0, 0, 0, 0.5) !important;
@@ -37249,20 +37264,20 @@ nav.font {
 }
 
 nav {
-  background-color: #254E58;
+  background-color: #283c86;
   /*opacity: 0.5;*/
 }
 
 .sidebar-dark-primary {
-  background-color: #254E58;
+  background-color: #283c86;
 }
 
 .card-header {
-  background-color: #254E58;
+  background-color: #283c86;
 }
 
 .color {
-  background-color: #254E58;
+  background-color: #283c86;
   /*opacity: 0.5;*/
 }
 
@@ -37281,7 +37296,7 @@ nav {
 
 .featurette {
   font-weight: 700;
-  color: #254E58;
+  color: #283c86;
 }
 
 .home {
@@ -37303,7 +37318,7 @@ nav {
   padding-bottom: 15.2%;
   align-content: center;
   text-align: center;
-  color: #254E58;
+  color: #283c86;
 }
 
 .bg-custom {
@@ -37397,7 +37412,7 @@ nav {
 .signup-form .btn {
   font-size: 16px;
   font-weight: bold;
-  background: #19aa8d;
+  background: #283c86;
   border-radius: 3px;
   border: none;
   min-width: 140px;
@@ -37410,7 +37425,7 @@ nav {
 }
 
 .signup-form a {
-  color: #19aa8d;
+  color: #283c86;
   text-decoration: none;
 }
 
