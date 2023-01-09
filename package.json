@@ -28,7 +28,7 @@
         "font-awesome": "^4.7.0",
         "laravel-echo": "^1.5.4",
         "laravel-vue-pagination": "^2.3.0",
-        "luxon": "^1.17.2",
+        "luxon": "^2.5.2",
         "moment": "^2.24.0",
         "pusher-js": "^5.0.0",
         "sweetalert2": "^8.16.2",
